@@ -1,8 +1,8 @@
 ---
 title: Personal Settings
 date: 2021-01-25
-tag: 
-category:
+tag: TCS
+category: TCS
 mathjax: false
 ---
 Personal Settings. Such as zshrc/vimrc.
